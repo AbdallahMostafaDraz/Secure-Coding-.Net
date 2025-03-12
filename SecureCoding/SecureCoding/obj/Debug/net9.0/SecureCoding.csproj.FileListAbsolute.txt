@@ -97,3 +97,8 @@ E:\ITI\Secure-Coding-.Net\SecureCoding\SecureCoding\obj\Debug\net9.0\refint\Secu
 E:\ITI\Secure-Coding-.Net\SecureCoding\SecureCoding\obj\Debug\net9.0\SecureCoding.pdb
 E:\ITI\Secure-Coding-.Net\SecureCoding\SecureCoding\obj\Debug\net9.0\SecureCoding.genruntimeconfig.cache
 E:\ITI\Secure-Coding-.Net\SecureCoding\SecureCoding\obj\Debug\net9.0\ref\SecureCoding.dll
+E:\ITI\Secure-Coding-.Net\SecureCoding\SecureCoding\bin\Debug\net9.0\AngleSharp.dll
+E:\ITI\Secure-Coding-.Net\SecureCoding\SecureCoding\bin\Debug\net9.0\AngleSharp.Css.dll
+E:\ITI\Secure-Coding-.Net\SecureCoding\SecureCoding\bin\Debug\net9.0\HtmlSanitizer.dll
+E:\ITI\Secure-Coding-.Net\SecureCoding\SecureCoding\obj\Debug\net9.0\SecureCoding.csproj.AssemblyReference.cache
+E:\ITI\Secure-Coding-.Net\SecureCoding\SecureCoding\obj\Debug\net9.0\SecureCo.0655D9DE.Up2Date

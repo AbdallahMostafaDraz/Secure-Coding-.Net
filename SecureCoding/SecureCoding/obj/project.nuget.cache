@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "dZfIMsZjgDc=",
+  "dgSpecHash": "z7l9SDI+iOg=",
   "success": true,
   "projectFilePath": "E:\\ITI\\Secure-Coding-.Net\\SecureCoding\\SecureCoding\\SecureCoding.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\anglesharp.css\\0.17.0\\anglesharp.css.0.17.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\htmlsanitizer\\9.0.876\\htmlsanitizer.9.0.876.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.collections.immutable\\9.0.1\\system.collections.immutable.9.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecureCoding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97086f070186592b67845b058e3d7ed052be7ec6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de1003a0ad2ff1fd6ef3977f0c47d1a8ff4ffaae")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecureCoding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecureCoding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
