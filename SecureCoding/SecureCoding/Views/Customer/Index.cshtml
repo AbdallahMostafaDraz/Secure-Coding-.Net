@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Customer>
+
+<a asp-action="create">Add New Cusotmer</a>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <td>First Name</td>
+            <td>Last Name</td>
+            <td>Gender</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var customer in Model)
+        {
+            <tr>
+                <td>@customer.FirstName</td>
+                <td>@customer.LastName</td>
+                <td>@customer.Gender</td>
+            </tr>
+        }
+    </tbody>
+</table>
